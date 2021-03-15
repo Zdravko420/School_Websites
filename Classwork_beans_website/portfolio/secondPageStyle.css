@@ -1,0 +1,20 @@
+span.a {
+	
+  display: inline; 
+  width: 100px;
+  height: 100px;
+  padding: 3px;
+  border: 1px solid black;  
+  background-color: black; 
+}
+.myDiv {
+  
+  background-color: white;    
+  
+}
+table, th, td {
+  border: 1px solid black;
+}
+body {
+  background-image: url("image/beans_background.jpg");
+}
